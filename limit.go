@@ -3,7 +3,6 @@ package limit
 import (
 	"github.com/gin-gonic/gin"
 	"log"
-	"net/http"
 )
 
 //Limit function is gin middleware to limit current requests
